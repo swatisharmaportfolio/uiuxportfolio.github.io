@@ -150,7 +150,7 @@ footer .social_icon li a:hover{transform: translate(-10px);}
     font-size:1.1rem;
 
 }
-.headerBtn .btn{width:50%;margin-top: 20px;margin: 30px 70px 0px ;padding: 1vh 2vh;}
+.headerBtn .clickable{width:50%;margin-top: 20px;margin: 35px 70px 0px ;padding: 1.5vh 2vh;}
 
 .clickable:hover{background-image: linear-gradient(to right, #ff9966 , #ff5e62);border: 0px solid white;}
 
